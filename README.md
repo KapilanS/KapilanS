@@ -16,12 +16,9 @@ I'm currently pursuing my Bachelor's Degree in Artificial Intelligence and Data 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## My Github Stats 
-![kapilan](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilanS&theme=gruvbox&show_icons=true)
+![kapilan](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilanS&theme=radical&show_icons=true&card_height=250)
 
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KapilanS&theme=radical&card_width=380&card_height=205)](https://git.io/streak-stats)
 
-----
-
-<br>
 
 ![kapilan stats](https://github-readme-stats.vercel.app/api?username=KapilanS&theme=gruvbox&show_icons=true)
