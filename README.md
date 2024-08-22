@@ -1,16 +1,27 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amita&size=30&pause=1000&color=F7E23E&background=7B5CFF00&width=435&lines=HELLO+MONDO+!)](https://git.io/typing-svg)
 
-<!--
-**KapilanS/KapilanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello,  I'm **KAPILAN S**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing my Bachelor's Degree in Artificial Intelligence and Data Science.
+
+## Languages/Skills
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
+![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/css3-css-white?style=for-the-badge&logo=CSS3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## My Github Stats 
+![kapilan](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilanS&theme=gruvbox&show_icons=true)
+
+<br>
+
+----
+
+<br>
+
+![kapilan stats](https://github-readme-stats.vercel.app/api?username=KapilanS&theme=gruvbox&show_icons=true)
