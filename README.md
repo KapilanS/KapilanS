@@ -14,6 +14,7 @@ I'm currently pursuing my Bachelor's Degree in Artificial Intelligence and Data 
 ![Css3](https://img.shields.io/badge/css3-css-white?style=for-the-badge&logo=CSS3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 ## My Github Stats 
 ![kapilan](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilanS&theme=radical&show_icons=true&card_height=250)
