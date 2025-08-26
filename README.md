@@ -4,7 +4,7 @@
 
 Hello,  I'm **KAPILAN S**.
 
-I'm currently pursuing my Bachelor's Degree in Artificial Intelligence and Data Science.
+I'm a Graduate with Bachelor's Degree in Artificial Intelligence and Data Science.
 
 ## Languages/Skills
 
