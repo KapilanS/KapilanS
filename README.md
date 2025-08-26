@@ -17,6 +17,7 @@ I'm a Graduate with Bachelor's Degree in Artificial Intelligence and Data Scienc
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 ![google analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![power bi](https://img.shields.io/badge/PowerBi-E97627?style=for-the-badge&logo=PowerBi&logoColor=white)
 
 ## My Github Stats 
 ![kapilan](https://github-readme-stats.vercel.app/api/top-langs/?username=KapilanS&theme=radical&show_icons=true&card_height=250)
